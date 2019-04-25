@@ -1,0 +1,10 @@
+GIT command to remove a file from staging area
+$ git rm --cached <file-name>
+
+f a directory, use the -r flag:
+
+$ git rm -r --cached directory/
+
+if unwanted files were added to the staging area, but not yet committed, then a simple reset will do the job:
+
+$ git reset HEAD file
