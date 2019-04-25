@@ -1,3 +1,4 @@
 Hello All
 Welcome to GIT training 
 Modified after GPtest commit.
+Change 2 added
