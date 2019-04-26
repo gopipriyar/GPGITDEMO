@@ -3,3 +3,4 @@ Welcome to GIT training
 Modified after GPtest commit.
 Change 2 added
 Change 3 - working area git diff demo
+Release 1 bug fixed and tested
